@@ -37,7 +37,3 @@
 
 ## **About**
 
-## **License**
-MIT License
-
-Copyright ⓒ 2022 s107062597GmailCom
